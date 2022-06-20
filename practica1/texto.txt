@@ -1,3 +1,0 @@
-Este es un texto plano para practicar lo visto en el curso de git 
-
-No van a haber cambios dentro de este archivo.
