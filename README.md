@@ -10,3 +10,4 @@ un blog increible para el curso de Git y Github de Platzi.
 * Buenas practicas para el trabajo colaborativo
 * Y muchas ganas de seguir aprendiendo
 * Las multiples personalidades de Andres
+* El curso incluye ejemplos en linux y mac 
