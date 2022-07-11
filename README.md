@@ -9,3 +9,4 @@ un blog increible para el curso de Git y Github de Platzi.
 * Flujos de trabajo en GitHub
 * Buenas practicas para el trabajo colaborativo
 * Y muchas ganas de seguir aprendiendo
+* Las multiples personalidades de Andres
