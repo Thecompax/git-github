@@ -11,3 +11,4 @@ un blog increible para el curso de Git y Github de Platzi.
 * Y muchas ganas de seguir aprendiendo
 * Las multiples personalidades de Andres
 * El curso incluye ejemplos en linux y mac 
+* Disponible para todas las edades
